@@ -80,6 +80,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿ Github :
 ╿ https://github.com/ArfanBot/ArfanBot2
 ╿ Youtube : Arfan Bot
+╿ Grup Whatsapp : https://chat.whatsapp.com/FfzHc0Ic5512gR702mYixZ
 ╰═══════════════
 
 ╭════•›「 Rules 」
